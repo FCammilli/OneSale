@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneSale.Infrastructure", "O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneSale.AppHost", "OneSale.AppHost\OneSale.AppHost.csproj", "{FC70EF76-7595-4498-A87F-D99C00C6F26D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneSale.Test", "OneSale.Test\OneSale.Test.csproj", "{C5C6F733-F5AE-4AFE-B46A-2D37890DCDB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,10 @@ Global
 		{FC70EF76-7595-4498-A87F-D99C00C6F26D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC70EF76-7595-4498-A87F-D99C00C6F26D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC70EF76-7595-4498-A87F-D99C00C6F26D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5C6F733-F5AE-4AFE-B46A-2D37890DCDB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5C6F733-F5AE-4AFE-B46A-2D37890DCDB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5C6F733-F5AE-4AFE-B46A-2D37890DCDB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5C6F733-F5AE-4AFE-B46A-2D37890DCDB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
